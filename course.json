@@ -1,0 +1,137 @@
+{
+  "course": "Pengolahan Sinyal",
+  "institution": "Politeknik Negeri Sriwijaya",
+  "lecturer": "M Afghan Fadillah R, M.T",
+  "meetings": [
+    {
+      "number": 1,
+      "title": "Pengantar Pengolahan Sinyal Digital",
+      "topics": [
+        "01. Target pembelajaran",
+        "02. Apa itu sinyal?",
+        "03. Mengapa memakai pengolahan sinyal digital?",
+        "04. Rantai sistem DSP dalam instrumentasi",
+        "05. Sampling dan kuantisasi (pengantar)",
+        "06. Operasi dasar dalam DSP",
+        "07. Mengenali ragam sinyal",
+        "08. Contoh aplikasi di bidang Teknik Elektro",
+        "09. Demonstrasi MATLAB: sinyal dan kuantisasi",
+        "Bank latihan & pembahasan",
+        "Kuis pemahaman"
+      ],
+      "path": "pertemuan/pertemuan-01.html"
+    },
+    {
+      "number": 2,
+      "title": "Sinyal Waktu-Diskrit: Dasar & Representasi",
+      "topics": [
+        "01. Orientasi & target pembelajaran",
+        "02. Dari x(t) ke x[n]",
+        "03. Sinyal elementer",
+        "04. Bangun deret x[n] sendiri",
+        "05. Operasi sampel dengan indeks selaras",
+        "06. Periodik pada domain waktu-diskrit",
+        "07. Studi kasus data sensor & gambar aplikasi",
+        "08. MATLAB: representasi dan operasi deret",
+        "Bank latihan & pembahasan",
+        "Kuis pemahaman"
+      ],
+      "path": "pertemuan/pertemuan-02.html"
+    },
+    {
+      "number": 3,
+      "title": "Sinyal Waktu-Diskrit",
+      "topics": [
+        "01. Sampling dan notasi x[n]",
+        "02. Sinyal waktu-diskrit elementer",
+        "03. Pergeseran, pembalikan, dan skala",
+        "04. Periodik, genap, dan ganjil",
+        "Contoh penerapan: sinyal dan representasi",
+        "Bank contoh soal dan pembahasan",
+        "Praktik MATLAB · Pertemuan 3"
+      ],
+      "path": "pertemuan/pertemuan-03.html"
+    },
+    {
+      "number": 4,
+      "title": "Sistem LTI dan Konvolusi",
+      "topics": [
+        "01. Sifat sistem waktu-diskrit",
+        "02. Persamaan beda dan sistem rekursif",
+        "03. Sistem LTI dan respons impuls",
+        "04. Laboratorium konvolusi diskrit",
+        "Contoh penerapan: analisis sistem diskrit",
+        "Bank contoh soal dan pembahasan",
+        "Praktik MATLAB · Pertemuan 4"
+      ],
+      "path": "pertemuan/pertemuan-04.html"
+    },
+    {
+      "number": 5,
+      "title": "DTFT, Respons Frekuensi & Sampling",
+      "topics": [
+        "01. Mengenal DTFT",
+        "02. Laboratorium spektrum DTFT",
+        "03. Sifat DTFT dan pengaruh delay",
+        "04. Respons frekuensi sistem LTI",
+        "05. Sampling, Nyquist dan rekonstruksi",
+        "06. Penerapan DTFT di teknik elektro",
+        "07. Bank contoh soal dan pembahasan",
+        "Kuis formatif",
+        "08. Praktik MATLAB"
+      ],
+      "path": "pertemuan/pertemuan-05.html"
+    },
+    {
+      "number": 6,
+      "title": "Transformasi Z, ROC dan Pole-Zero",
+      "topics": [
+        "01. Mengapa Transformasi Z?",
+        "02. Eksplorasi ROC: satu rumus, dua sinyal",
+        "03. Laboratorium pole-zero dan stabilitas",
+        "04. Transformasi Z invers",
+        "05. Dari H(z) ke persamaan beda",
+        "06. Kaitan transformasi Z dan respons frekuensi",
+        "07. Penerapan transformasi Z di teknik elektro",
+        "08. Bank contoh soal dan pembahasan",
+        "Kuis formatif",
+        "09. Praktik MATLAB"
+      ],
+      "path": "pertemuan/pertemuan-06.html"
+    },
+    {
+      "number": 7,
+      "title": "Transformasi Z Lanjutan dan Sistem Orde Dua",
+      "topics": [
+        "01. Rangkuman dan target pertemuan",
+        "02. Sifat-sifat Transformasi Z",
+        "03. ROC dua sisi: cincin konvergensi",
+        "04. Z invers dengan pecahan parsial",
+        "05. Persamaan beda orde dua",
+        "06. Pole, kestabilan, dan respons transien",
+        "07. Aplikasi transformasi Z di teknik elektro",
+        "08. Bank contoh soal dan pembahasan",
+        "Kuis formatif Transformasi Z",
+        "09. Verifikasi menggunakan MATLAB"
+      ],
+      "path": "pertemuan/pertemuan-07.html"
+    },
+    {
+      "number": 8,
+      "title": "Review Terpadu dan Simulasi Ujian Tengah Semester",
+      "topics": [
+        "01. Evaluasi tengah semester (UTS)",
+        "02. Review pengantar DSP: sampling & ADC",
+        "03. Review operasi deret",
+        "04. Review konvolusi LTI",
+        "05. Review DTFT dan respons frekuensi",
+        "06. Review pole-zero, ROC, dan stabilitas",
+        "07. Studi kasus gabungan: pengukuran dan kendali",
+        "08. Bank contoh soal dan pembahasan",
+        "09. Simulasi Ujian Tengah Semester",
+        "10. Latihan pemeriksaan dengan MATLAB"
+      ],
+      "path": "pertemuan/pertemuan-08.html"
+    }
+  ]
+}
